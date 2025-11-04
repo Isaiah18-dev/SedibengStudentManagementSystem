@@ -1,0 +1,5 @@
+{
+  "name": "Sedibeng School Management System",
+  "description": "A comprehensive, AI-powered dashboard for managing students, teachers, and classes. Features include student performance analysis, lesson plan generation, and announcement creation using Gemini.",
+  "requestFramePermissions": []
+}
